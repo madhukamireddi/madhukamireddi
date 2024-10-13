@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Java Project**
 
-- 🌱 I’m currently learning **Spring , Spring Bott**
+- 🌱 I’m currently learning **Spring , Spring Boot**
 
 - 📫 How to reach me **madhukamireddi2001@gmail.com**
 
